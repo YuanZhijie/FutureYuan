@@ -1,4 +1,5 @@
 # FutureYuan
 
-# First
-# Second
+This is one beginning of the future. (I HOPE)
+
+
